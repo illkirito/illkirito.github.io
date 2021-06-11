@@ -1,0 +1,31 @@
+.footer{
+  height: 15vh;
+  background-color: block;
+  width: 100%;
+  height: 50%;
+  left: 0px;
+
+  top: 3700px;
+
+  padding: 20px 0;
+  border-bottom: 3px solid #2F4F4F;
+  border-right: 3px solid #2F4F4F;
+  border-left: 3px solid #2F4F4F;
+  border-top: 3px solid #2F4F4F;
+  position: absolute;
+   }
+.footer p{
+  color: white
+  margin: 10px 0;
+}
+.cop{
+  font-size: 14px
+  float: left;
+  text-align:center;
+  border-top 1px solid #fff;
+}
+.rights{
+  float: center;
+  font-size: 10px;
+  padding-top: 100px;
+}

@@ -1,0 +1,174 @@
+@font-face {
+font-family: 'MyBa';
+src: url(20657.ttf);
+}
+body{
+	margin:0 0 0 0;
+  background-color: black;
+}
+.logo{
+	height: 180px;
+	width: 100%	;
+	background-color: black;
+	float:left;
+	text-align: center;
+	
+}
+.pri{
+font-size: 36px;
+font-style: bold;
+font-family: MyBa;
+color: #fff;
+text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff;
+}
+.serx {
+float: left;
+}
+#seriesx {
+  float: center;
+  font-family: MyBa;
+  color: white;
+  font-size: 36px;
+  padding-top: 15px;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+
+}
+.menu {
+  margin: 0;
+  padding: 15px;
+  list-style-type: none;
+  border: 2px solid green;
+  border-radius: 20px 5px;
+  height: 25px;
+  text-align: center;
+  background-color: green;
+}
+.menu li {display: inline;
+float: left;
+font-family: MyBa;
+
+}
+.menu a {
+  color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+}
+.menu a:hover {
+  border-radius: 20px 5px;
+  background-color: black;
+}
+.one1 {
+  background-color: black;
+  padding-top: 300px;
+	padding-right: 300px;
+	float: left;
+  position: relative;
+	height: 700px;
+	width: 700px;
+}
+#one {
+  float: center;
+  font-family: MyBa;
+  color: white;
+  font-size: 30px;
+	padding-top: 800px;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+
+}
+#gamepad {
+	font-size: 36px;
+	font-style: bold;
+	font-family: MyBa;
+	color: white;
+	padding-top: 700px;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+.gp {
+	background-color: black;
+  padding-top: 300px;
+	padding-right: 300px;
+	float: left;
+  position: relative;
+	height: 600px;
+	width: 700px;
+}
+#xboxlive {
+	font-size: 36px;
+	font-style: bold;
+	font-family: MyBa;
+	color: white;
+	padding-top: 830px;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff, 0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+.live {
+	background-color: black;
+  padding-top: 270px;
+	padding-right: 300px;
+	float: left;
+  position: relative;
+	height: 800px;
+	width: 800px;
+}
+
+.ax {
+	text-decoration: none;
+}
+a:seriesx, a:visited {
+color: white;
+}
+.as {
+	text-decoration: none;
+}
+a:one, a:visited
+{color: white;
+}
+.gpg {
+	text-decoration: none;
+}
+a:gamepad, a:visited
+{color: white;
+}
+.liv {
+	text-decoration: none;
+}
+a:xboxlive, a:visited
+{color: white;
+}
+.poisk {
+	height: 110px;
+	width: 100%;
+	background: black;
+	float: left;
+	color: white;
+}
+.button {
+	margin: 0;
+  padding: 15px;
+  list-style-type: none;
+  border: 2px solid green;
+  border-radius: 20px 5px;
+  height: 25px;
+  text-align: center;
+  background-color: green;
+	font-family: MyBa;
+	text-decoration: none;
+ color: white;
+}
+.button a {
+	color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+}
+.button a:hover {
+  border-radius: 20px 5px;
+  background-color: black;
